@@ -24,7 +24,7 @@ body {
     padding: 15px 10px 0;/* para separar el logo del margen y todos los elementos.. buena ideaa*/
 }
 
-/***** HEADER ****/
+/***** HEADER*/
 header.main-header{
     max-width: 380px; /* esto no es un ancho fijo */
     margin: 0 auto 20px;
